@@ -1,0 +1,36 @@
+This is an excellent display. I soldered a header on, then plugged the display into a breadboard connected to an Arduino Uno, and it lit right up. Contrast is adjustable as others have described. Although I am no expert on these things, the connections to the display seem to be the same as the numerous on-line examples which I found. If you are having trouble getting this display working, then I recommend you look on-line for sample code and wiring instructions and have some fun with it.
+
+PostNote: Thought I would improve the value of this review for beginners by giving a pin listing, since none is provided by the seller:
+(Disclaimer: I found this online, and it worked for me. You should check for yourself!)
+
+Pin # Function
+1 VSS (Gnd)
+2 VDD (+5V)
+3 Contrast Adjustment - Connect the center tap of a 10k pot connected between Gnd and 5V
+4 RS Register Select Input
+5 R/W Read/Write Signal, normally at Gnd
+6 E Enable
+7 DB0
+8 DB1
+9 DB2
+10 DB3
+11 DB4
+12 DB5
+13 DB6
+14 DB7
+15 LED (+) (+5V through a current limiting resistor - I used 220ohm)
+16 LED (-) Gnd
+
+The Arduino connections are as follows:
+LCD Pin: Arduino Pin:
+RS D12
+E D11
+DB4 D5
+DB5 D4
+DB6 D3
+DB7 D2
+
+There are two key lines that should be included in your Arduino sketch:
+
+#include <LiquidCrystal.h> //Makes available the Arduino environment Liquid Crystal Display
+Liquid Crystal lcd(12,11,5,4,3,2); //Assigns the proper pin connections (as above) between Arduino and the display
