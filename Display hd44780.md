@@ -1,5 +1,34 @@
 [Arduino: Arduino LCD Tutorial (YouTube)](https://www.youtube.com/watch?v=JDoTn1sLxWQ)
 
+####Pin-Out
+<pre>
+Pin # Function
+1 VSS (Gnd)
+2 VDD (+5V)
+3 Contrast Adjustment - Connect the center tap of a 10k pot connected between Gnd and 5V
+4 RS Register Select Input
+5 R/W Read/Write Signal, normally at Gnd
+6 E Enable
+7 DB0
+8 DB1
+9 DB2
+10 DB3
+11 DB4
+12 DB5
+13 DB6
+14 DB7
+15 LED (+) (+5V through a current limiting resistor - I used 220ohm)
+16 LED (-) Gnd
+
+The Arduino connections are as follows:
+LCD Pin: Arduino Pin:
+RS D12
+E D11
+DB4 D5
+DB5 D4
+DB6 D3
+DB7 D2
+</pre>
 
 <pre>
 This is an excellent display. I soldered a header on, then plugged the display into a breadboard connected to an 
