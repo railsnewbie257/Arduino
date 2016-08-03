@@ -1,0 +1,1 @@
+[How to Prototype Without Using Printed Circuit Boards (Instructables)](http://www.instructables.com/id/How-to-Prototype-Without-Using-Printed-Circuit-Boa/step7/Crimp-the-loops-over-the-pins-then-solder-them/)
