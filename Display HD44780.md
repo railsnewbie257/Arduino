@@ -72,5 +72,5 @@ DB7 D2
 
 There are two key lines that should be included in your Arduino sketch:
 
-#include <LiquidCrystal.h> //Makes available the Arduino environment Liquid Crystal Display
+\#include <LiquidCrystal.h> //Makes available the Arduino environment Liquid Crystal Display
 Liquid Crystal lcd(12,11,5,4,3,2); //Assigns the proper pin connections (as above) between Arduino and the display
