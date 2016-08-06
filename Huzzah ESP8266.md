@@ -7,3 +7,4 @@
 
 [ESP8266 Part1 WiFi Basics, AT Commands, Wiring & 'TRAPS' (YouTube)](https://www.youtube.com/watch?v=trWT7VDBEyg)
 
+[Cheap and Easy WiFi (IoT) Tutorial Part 2 - ESP8266 Arduino Code (YouTube)](https://www.youtube.com/watch?v=zGgUfAB4m24)
