@@ -1,3 +1,7 @@
+learn.adafruit.com   
+[Setup Cool Term](https://www.mac-usb-serial.com/wordpress/access-serial-port-on-mac-with-coolterm/)
+
+
 [Getting started with ESP8266 using the Adafruit Huzzah breakout board (YouTube)](https://www.youtube.com/watch?v=Wd1tu5p_BeM)  
 [Adafruit's ESP8266 Huzzah Breakout Example (YouTube)](https://www.youtube.com/watch?v=SUyVL0UhZE4)
 
