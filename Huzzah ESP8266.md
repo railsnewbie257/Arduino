@@ -3,6 +3,10 @@ learn.adafruit.com
 
 [Arduino IDE for Huzzah](https://github.com/esp8266/Arduino)
 
+[Using Arduino IDE (Arduino.cc)](https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/using-arduino-ide) - good instructions for setting it Arduino IDE for ESP8266
+
+[Github ESP8266 Arduino repository](https://github.com/esp8266/Arduino)
+
 [Getting started with ESP8266 using the Adafruit Huzzah breakout board (YouTube)](https://www.youtube.com/watch?v=Wd1tu5p_BeM)  
 [Adafruit's ESP8266 Huzzah Breakout Example (YouTube)](https://www.youtube.com/watch?v=SUyVL0UhZE4)
 
