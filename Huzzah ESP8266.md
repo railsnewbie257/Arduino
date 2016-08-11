@@ -17,3 +17,5 @@ learn.adafruit.com
 [ESP8266 Part1 WiFi Basics, AT Commands, Wiring & 'TRAPS' (YouTube)](https://www.youtube.com/watch?v=trWT7VDBEyg)
 
 [Cheap and Easy WiFi (IoT) Tutorial Part 2 - ESP8266 Arduino Code (YouTube)](https://www.youtube.com/watch?v=zGgUfAB4m24)
+
+[Tame the beast: Ultra-Low Power #ESP8266 Thing (Hackster.io)](http://www.instructables.com/id/ESP8266-Wifi-Temperature-Logger/)
