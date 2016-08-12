@@ -17,4 +17,6 @@
 ####LED Strip
 [WS2812 Breakout Hookup Guide (Sparkfun)](WS2812 Breakout Hookup Guide)
 
-####[Things Speak](http://community.thingspeak.com/tutorials/arduino/send-data-to-thingspeak-with-arduino/)
+####Communications
+
+[Things Speak](http://community.thingspeak.com/tutorials/arduino/send-data-to-thingspeak-with-arduino/)
