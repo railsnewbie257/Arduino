@@ -7,3 +7,5 @@
 [ESP8266 controlling WS2812 Neopixel LEDs using Arduino IDE - A Tutorial (Instructables)](http://www.instructables.com/id/ESP8266-controlling-Neopixel-LEDs-using-Arduino-ID/)
 
 [Quick Project: WS2812B RGB Colour LED Pixel String (YouTube)](https://www.youtube.com/watch?v=qeZKOekeiNw)
+
+[Powering NeoPixels (adafruit)](https://learn.adafruit.com/adafruit-neopixel-uberguide/power)
