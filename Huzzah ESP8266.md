@@ -19,3 +19,5 @@ learn.adafruit.com
 [Cheap and Easy WiFi (IoT) Tutorial Part 2 - ESP8266 Arduino Code (YouTube)](https://www.youtube.com/watch?v=zGgUfAB4m24)
 
 [ESP8266 Wifi Temperature Logger (Instructables)](http://www.instructables.com/id/ESP8266-Wifi-Temperature-Logger/)
+
+[Huzzah Wifi](https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/using-arduino-ide)
