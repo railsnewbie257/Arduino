@@ -1,4 +1,4 @@
-####Install du-util
+##These instruction are for OSX
 
 $ <b>brew install du-util</b>
 <pre>
