@@ -57,10 +57,43 @@ Wrote 532480 bytes at 0x0 in 11.8 seconds (359.9 kbit/s)...
 Leaving...
 </pre>
 
+###Serial Coomunications
+<pre>
 $ <b>brew install picocom</b>
+</pre>
 <pre>
 ==> Downloading https://homebrew.bintray.com/bottles/picocom-2.1.el_capitan.bottle.tar.gz
 ######################################################################## 100.0%
 ==> Pouring picocom-2.1.el_capitan.bottle.tar.gz
 🍺  /usr/local/Cellar/picocom/2.1: 6 files, 96.3K
+</pre>
+
+<pre>
+$ <b>picocom --b 115200</b> <em>/dev/cu.usbserial-A105C7AI</em>
+</pre>
+<pre>
+picocom v2.1
+
+port is        : /dev/cu.usbserial-A105C7AI
+flowcontrol    : none
+baudrate is    : 115200
+parity is      : none
+databits are   : 8
+stopbits are   : 1
+escape is      : C-a
+local echo is  : no
+noinit is      : no
+noreset is     : no
+nolock is      : no
+send_cmd is    : sz -vv
+receive_cmd is : rz -vv -E
+imap is        : 
+omap is        : 
+emap is        : crcrlf,delbs,
+
+Type [C-a] [C-h] to see available commands
+
+Terminal ready
+
+>>> 
 </pre>
