@@ -33,6 +33,8 @@ You are using pip version 7.1.2, however version 8.1.2 is available.
 You should consider upgrading via the 'pip install --upgrade pip' command.
 </pre>
 
+##Flash The Memory
+
 ####Erase what's there  
 <pre>
 $ <b>esptool.py --baud 115200 --port</b> <em>/dev/cu.usbserial-A105C7AI</em> <b>erase_flash</b>
@@ -57,7 +59,7 @@ Wrote 532480 bytes at 0x0 in 11.8 seconds (359.9 kbit/s)...
 Leaving...
 </pre>
 
-###Serial Coomunications
+##Serial Communications
 <pre>
 $ <b>brew install picocom</b>
 </pre>
