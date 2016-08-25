@@ -72,6 +72,9 @@ $ <b>brew install picocom</b>
 
 <pre>
 $ <b>picocom --b 115200</b> <em>/dev/cu.usbserial-A105C7AI</em>
+
+( exit picocom by typing Ctrl-A Ctrl-X )
+<a href=http://linux.die.net/man/8/picocom>picocom man page</a>
 </pre>
 <pre>
 picocom v2.1
