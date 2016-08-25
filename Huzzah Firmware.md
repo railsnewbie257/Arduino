@@ -32,7 +32,9 @@ You should consider upgrading via the 'pip install --upgrade pip' command.
 </pre>
 
 // This does the flash  
+<pre>
 $ <b>esptool.py --port</b> <em>/dev/cu.usbserial-A105C7AI</em> <b>--baud 460800 write_flash --flash_size=8m 0</b> <em>~/downloads/esp8266-20160824-v1.8.3-43-g6562076.bin</em>  
+</pre>
 <pre>
 esptool.py v1.1
 Connecting...
@@ -41,4 +43,12 @@ Flash params set to 0x0020
 Writing 532480 @ 0x0... 532480 (100 %)
 Wrote 532480 bytes at 0x0 in 11.8 seconds (359.9 kbit/s)...
 Leaving...
+</pre>
+
+$ <b>brew install picocom</b>
+<pre>
+==> Downloading https://homebrew.bintray.com/bottles/picocom-2.1.el_capitan.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring picocom-2.1.el_capitan.bottle.tar.gz
+🍺  /usr/local/Cellar/picocom/2.1: 6 files, 96.3K
 </pre>
