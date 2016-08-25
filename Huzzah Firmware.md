@@ -17,8 +17,10 @@ $ <b>brew install du-util</b>
 
 ####[Deploying MicroPython Firmware](http://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html#deploying-the-firmware)
 
-
+####Install esptool
+<pre>
 $ <b>pip install esptool</b>
+</pre>
 <pre>
 Collecting esptool
   Downloading esptool-1.1-py2-none-any.whl
@@ -31,7 +33,12 @@ You are using pip version 7.1.2, however version 8.1.2 is available.
 You should consider upgrading via the 'pip install --upgrade pip' command.
 </pre>
 
-// This does the flash  
+####Erase what's there  
+<pre>
+$ <b>esptool.py --baud 115200 --port</b> <em>/dev/cu.usbserial-A105C7AI</em> <b>erase_flash</b>
+</pre>
+
+####This does the flash  
 <pre>
 $ <b>esptool.py --port</b> <em>/dev/cu.usbserial-A105C7AI</em> <b>--baud 460800 write_flash --flash_size=8m 0</b> <em>~/downloads/esp8266-20160824-v1.8.3-43-g6562076.bin</em>  
 </pre>
