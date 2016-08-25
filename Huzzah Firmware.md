@@ -31,6 +31,7 @@ You are using pip version 7.1.2, however version 8.1.2 is available.
 You should consider upgrading via the 'pip install --upgrade pip' command.
 </pre>
 
+// This does the flash  
 $ <b>esptool.py --port</b> <em>/dev/cu.usbserial-A105C7AI</em> <b>--baud 460800 write_flash --flash_size=8m 0</b> <em>~/downloads/esp8266-20160824-v1.8.3-43-g6562076.bin</em>  
 <pre>
 esptool.py v1.1
