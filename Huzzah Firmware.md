@@ -37,6 +37,11 @@ You should consider upgrading via the 'pip install --upgrade pip' command.
 <pre>
 $ <b>esptool.py --baud 115200 --port</b> <em>/dev/cu.usbserial-A105C7AI</em> <b>erase_flash</b>
 </pre>
+<pre>
+esptool.py v1.1
+Connecting...
+Erasing flash (this may take a while)...
+</pre>
 
 ####This does the flash  
 <pre>
