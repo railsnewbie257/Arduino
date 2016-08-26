@@ -5,6 +5,8 @@ Supplies:
 Coaxial DC Power Plug, Size K, 5mm OD x 2.1mm ID  
 4xAA battery holder (series)
 
+The DC Power Plug is center positive(+)
+
 Input power needs to be >5V or board is unstable  
 Arduino can take 9-12V input  
 </pre>
