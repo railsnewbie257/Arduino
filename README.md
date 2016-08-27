@@ -4,8 +4,8 @@
 
 [ATmega328 Pin Out](http://pighixxx.com/atmega328v3_0.pdf)
 
-[5 Ways to Destroy an Arduino (YouTube])(https://www.youtube.com/watch?v=WmcMrKELkcs)
-[5 More Ways to Destroy an Arduino (YouTube)](https://www.youtube.com/watch?v=P_fb6njcaoU)
+[5 Ways to Destroy an Arduino (YouTube](https://www.youtube.com/watch?v=WmcMrKELkcs)  
+[5 More Ways to Destroy an Arduino (YouTube)](https://www.youtube.com/watch?v=P_fb6njcaoU)  
 [How to Make One Button Have the Functionality of Two or More with Arduino (YouTube)](https://www.youtube.com/watch?v=IsDzxtaZCoI)
 
 [Command Reference Page](https://www.arduino.cc/en/Reference/HomePage)
