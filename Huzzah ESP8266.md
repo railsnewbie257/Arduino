@@ -1,3 +1,5 @@
+[This is a great video](https://www.youtube.com/watch?v=9QZkCQSHnko) - shows wiring
+
 learn.adafruit.com   
 [Setup Cool Term](https://www.mac-usb-serial.com/wordpress/access-serial-port-on-mac-with-coolterm/)
 
