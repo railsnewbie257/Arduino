@@ -1,3 +1,5 @@
+[Different Huzzah Models - Table at end of webpage](http://www.esp8266.com/wiki/doku.php?id=esp8266-module-family)
+
 [This is a great video](https://www.youtube.com/watch?v=9QZkCQSHnko) - shows wiring
 
 learn.adafruit.com   
