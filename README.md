@@ -3,6 +3,7 @@
 [Arduino Pin Out](http://pighixxx.com/unov3pdf.pdf)   
 [ATmega328 Pin Out](http://pighixxx.com/atmega328v3_0.pdf)   
 
+[How many shields can I plug into Arduino? (stackoverflow)](http://electronics.stackexchange.com/questions/13618/how-many-shields-can-i-plug-into-arduino)   
 [Stacking Arduino Shields](http://www.freetronics.com.au/pages/stacking-arduino-shields#.V8I23mU_pE4)   
 
 [5 Ways to Destroy an Arduino (YouTube](https://www.youtube.com/watch?v=WmcMrKELkcs)   
