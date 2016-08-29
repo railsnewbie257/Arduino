@@ -1,6 +1,6 @@
 # Arduino
 
-[Arduino Pin Out](http://pighixxx.com/unov3pdf.pdf)   
+[Arduino Pin Out](http://pighixxx.com/unov3pdf.pdf) - the 6 pin rectangular group is called "ICSP"
 [ATmega328 Pin Out](http://pighixxx.com/atmega328v3_0.pdf)   
 
 [How many shields can I plug into Arduino? (stackoverflow)](http://electronics.stackexchange.com/questions/13618/how-many-shields-can-i-plug-into-arduino)   
