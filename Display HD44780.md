@@ -24,12 +24,17 @@ Pin # Function
 
 The Arduino connections are as follows:
 LCD Pin: Arduino Pin:
-RS D12
-E D11
-DB4 D5
-DB5 D4
-DB6 D3
-DB7 D2
+ (1) VSS -> GND
+ (2) VDD -> +5V
+ (4) RS  -> D12
+ (5) R/W -> GND
+ (6) E   -> D11
+(11) DB4 -> D5    (4 bit parallel)
+(12) DB5 -> D4    (4 bit parallel)
+(13) DB6 -> D3    (4 bit parallel)
+(14) DB7 -> D2    (4 bit parallel)
+(15) LED(+) -> 220R  -> +5V  (backlighting)
+(16) LED(-) -> GND           (backlighting)
 </pre>
 
 <pre>
