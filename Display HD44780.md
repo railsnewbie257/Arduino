@@ -33,14 +33,14 @@ DB7 D2
 </pre>
 
 <pre>
-This is an excellent display. I soldered a header on, then plugged the display into a breadboard connected to an 
-Arduino Uno, and it lit right up. Contrast is adjustable as others have described. Although I am no expert on these 
-things, the connections to the display seem to be the same as the numerous on-line examples which I found. If you 
-are having trouble getting this display working, then I recommend you look on-line for sample code and wiring 
-instructions and have some fun with it.
+This is an excellent display. I soldered a header on, then plugged the display into a breadboard 
+connected to an Arduino Uno, and it lit right up. Contrast is adjustable as others have described. 
+Although I am no expert on these things, the connections to the display seem to be the same as the 
+numerous on-line examples which I found. If you are having trouble getting this display working, 
+then I recommend you look on-line for sample code and wiring instructions and have some fun with it.
 
-PostNote: Thought I would improve the value of this review for beginners by giving a pin listing, since none is 
-provided by the seller:
+PostNote: Thought I would improve the value of this review for beginners by giving a pin listing, 
+since none is provided by the seller:
 (Disclaimer: I found this online, and it worked for me. You should check for yourself!)
 
 Pin # Function
@@ -73,4 +73,5 @@ DB7 D2
 There are two key lines that should be included in your Arduino sketch:
 
 \#include <LiquidCrystal.h> //Makes available the Arduino environment Liquid Crystal Display
-Liquid Crystal lcd(12,11,5,4,3,2); //Assigns the proper pin connections (as above) between Arduino and the display
+Liquid Crystal lcd(12,11,5,4,3,2); //Assigns the proper pin connections (as above) between Arduino 
+and the display
