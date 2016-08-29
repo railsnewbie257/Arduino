@@ -1,4 +1,4 @@
-[Arduino Crystal Tutorial (Arduino.cc)](https://www.arduino.cc/en/Tutorial/HelloWorld?from=Tutorial.LiquidCrystal) - very good
+[Arduino Crystal Tutorial (Arduino.cc)](https://www.arduino.cc/en/Tutorial/HelloWorld?from=Tutorial.LiquidCrystal) - very good, has wiring schematic
 
 [Arduino: Arduino LCD Tutorial (YouTube)](https://www.youtube.com/watch?v=JDoTn1sLxWQ)
 
