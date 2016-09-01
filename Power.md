@@ -8,7 +8,7 @@ Coaxial DC Power Plug, Size K, 5mm OD x 2.1mm ID
 The DC Power Plug is center positive(+)
 
 Input power needs to be >5V or board is unstable  
-Arduino can take 9-12V input  
+Arduino can take 9-12V DC input  
 </pre>
 
 [Feeding power to Arduino: the ultimate guide](http://www.open-electronics.org/the-power-of-arduino-this-unknown/)
