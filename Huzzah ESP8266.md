@@ -7,6 +7,8 @@ learn.adafruit.com
 
 [Arduino IDE for Huzzah](https://github.com/esp8266/Arduino)
 
+[#32 Internet of Things with ESP8266 #4: Upload Programs Over the Air (OTA)](https://www.youtube.com/watch?v=GoQXOLB50HA)
+
 [Using Arduino IDE (Arduino.cc)](https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/using-arduino-ide) - good instructions for setting it Arduino IDE for ESP8266
 
 [Github ESP8266 Arduino repository](https://github.com/esp8266/Arduino)
