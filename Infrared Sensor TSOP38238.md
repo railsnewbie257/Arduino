@@ -1,5 +1,17 @@
 ###[Arduino IRremote (website)](http://z3t0.github.io/Arduino-IRremote/)
 
+<pre>
+Description:
+
+Infrared sensor type 1838 for use with 38KHz IR signals.
+ Supply voltage: 2.7 to 5.5 V
+ Frequency: 37.9 KHz
+ Receiver range: 18m (typical)
+ Receiving angle: 90°
+Library: https://github.com/shirriff/Arduino-IRremote
+</pre>
+
+
 [download library IRremote.h here](https://github.com/z3t0/Arduino-IRremote/releases/tag/2.1.0)
 
 <pre>
@@ -12,17 +24,7 @@ Multiple libraries were found for "IRremote.h"
 the Arduino.app RobotIRremote can be deleted
 </pre>
 
-
-<pre>
-Infrared sensor type 1838 for use with 38KHz IR signals.
- Supply voltage: 2.7 to 5.5 V
- Frequency: 37.9 KHz
- Receiver range: 18m (typical)
- Receiving angle: 90°
-Library: https://github.com/shirriff/Arduino-IRremote
-</pre>
-
-The example sketch uses PIN 11 as input.  
+The example sketch uses PIN 11 as input on Arduino.  
 S-out needs a pull-down resistor.   
 Chip needs +5V  
 The onboard LED should be ON until a signal is received.   
