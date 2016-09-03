@@ -22,7 +22,9 @@ Infrared sensor type 1838 for use with 38KHz IR signals.
 Library: https://github.com/shirriff/Arduino-IRremote
 </pre>
 
-The example sketch uses PIN 11 as input.
+The example sketch uses PIN 11 as input.  
+S-out needs a pull-down resistor.  
+The onboard LED should be ON until a signal is received.
 
 ###Other useful links (DO NOT USE THE LIRARIES ! )
 [Receiving and Decoding IR (Adafruit)](https://learn.adafruit.com/using-an-infrared-library/hardware-needed)  
