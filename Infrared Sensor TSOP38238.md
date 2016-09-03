@@ -1,3 +1,19 @@
+###[Arduino IRremote (website)](http://z3t0.github.io/Arduino-IRremote/)
+
+[download library IRremote.h here](https://github.com/z3t0/Arduino-IRremote/releases/tag/2.1.0)
+
+<pre>
+Infrared sensor type 1838 for use with 38KHz IR signals.
+ Supply voltage: 2.7 to 5.5 V
+ Frequency: 37.9 KHz
+ Receiver range: 18m (typical)
+ Receiving angle: 90°
+Library: https://github.com/shirriff/Arduino-IRremote
+</pre>
+
+The example sketch uses PIN 11 as input.
+
+###Other useful links (DO NOT USE THE LIRARIES ! )
 [Receiving and Decoding IR (Adafruit)](https://learn.adafruit.com/using-an-infrared-library/hardware-needed)  
 [IRLib (Github)](cyborg5/IRLib)
 
