@@ -39,7 +39,7 @@ Y -> S-out
 </pre>
   
 
-###Other useful links (DO NOT USE THE LIRARIES ! )
+###Other useful links (DO NOT USE THE LIBRARIES ! )
 [Receiving and Decoding IR (Adafruit)](https://learn.adafruit.com/using-an-infrared-library/hardware-needed)  
 [IRLib (Github)](cyborg5/IRLib)
 
