@@ -27,8 +27,9 @@ S-out needs a pull-down resistor.
 Chip needs +5V  
 The onboard LED should be ON until a signal is received.   
 
-Pin out
+
 <pre>
+Pin out:
 G -> GND
 R -> +5V
 Y -> S-out
