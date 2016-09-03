@@ -26,6 +26,15 @@ The example sketch uses PIN 11 as input.
 S-out needs a pull-down resistor.  
 The onboard LED should be ON until a signal is received.
 
+Pin out
+<pre>
+G - GND
+R - +5V
+Y -> S-out
+  -> 220R -> GND
+</pre>
+  
+
 ###Other useful links (DO NOT USE THE LIRARIES ! )
 [Receiving and Decoding IR (Adafruit)](https://learn.adafruit.com/using-an-infrared-library/hardware-needed)  
 [IRLib (Github)](cyborg5/IRLib)
