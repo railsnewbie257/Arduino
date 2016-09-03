@@ -23,13 +23,14 @@ Library: https://github.com/shirriff/Arduino-IRremote
 </pre>
 
 The example sketch uses PIN 11 as input.  
-S-out needs a pull-down resistor.  
-The onboard LED should be ON until a signal is received.
+S-out needs a pull-down resistor.   
+Chip needs +5V  
+The onboard LED should be ON until a signal is received.   
 
 Pin out
 <pre>
-G - GND
-R - +5V
+G -> GND
+R -> +5V
 Y -> S-out
   -> 220R -> GND
 </pre>
