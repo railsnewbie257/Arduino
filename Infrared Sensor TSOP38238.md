@@ -3,6 +3,17 @@
 [download library IRremote.h here](https://github.com/z3t0/Arduino-IRremote/releases/tag/2.1.0)
 
 <pre>
+after installing library you may get this message from the IDE:
+
+Multiple libraries were found for "IRremote.h"
+ Used: /Users/peterpih/Documents/Arduino/libraries/IRremote
+ Not used: /Users/peterpih/Applications/Arduino.app/Contents/Java/libraries/RobotIRremote
+
+the Arduino.app RobotIRremote can be deleted
+</pre>
+
+
+<pre>
 Infrared sensor type 1838 for use with 38KHz IR signals.
  Supply voltage: 2.7 to 5.5 V
  Frequency: 37.9 KHz
