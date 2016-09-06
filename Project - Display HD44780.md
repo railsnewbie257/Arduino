@@ -22,7 +22,7 @@ Pin # Function
 15 LED (+) (+5V through a current limiting resistor - I used 220ohm)
 16 LED (-) Gnd
 
-The Arduino connections are as follows:
+The Arduino connections are as follows for 4 bit parallel:
 LCD Pin: Arduino Pin:
  (1) VSS -> GND
  (2) VDD -> +5V
