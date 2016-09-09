@@ -1,3 +1,11 @@
+These are bare temperature and humidity sensors. They are pinned Vcc, Data, NC (no connection), Gnd. They give readings roughly once per minute and are fairly accurate as they are factory calibrated. The main difference between this sensor and the 3 pin circuit board mounted versions is 
+<pre>
+<b>this sensor requires a 5K ohm pull-up resistor on the data line</b>
+</pre>
+
+which the circuit board mounted version provides. To state this more clearly, to use this bare sensor you must add a 5K ohm resistor between pins 1 (Vcc) and 2 (Data) as per the manufacturers specification. Not a big deal given all four of these are less expensive than a single circuit board mounted sensor. (from [here](https://smile.amazon.com/Digital-Humidity-Temperature-Sensor-Arudino/dp/B007YE0SB6/ref=sr_1_1?s=hi&ie=UTF8&qid=1473400490&sr=1-1&keywords=dht-11#customerReviews))
+
+
 ###DHT11 Pinout (from 37 Sensor Kit)
 <pre>
 3 Pin Breakout:
