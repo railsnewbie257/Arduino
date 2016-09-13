@@ -8,6 +8,10 @@ Pin # Function
 1 VSS (Gnd)
 2 VDD (+5V)
 3 Contrast Adjustment - Connect the center tap of a 10k pot connected between Gnd and 5V
+       pot pin out, with center pin furthest away:
+       - GND
+       --- Out
+       - V+
 4 RS Register Select Input
 5 R/W Read/Write Signal, normally at Gnd
 6 E Enable
