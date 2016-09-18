@@ -2,8 +2,12 @@
 Pinout:
 
 GND
-Signal
-V+
+Signal -> 3.3V / 0V
++5V
+
+Pots:
+left - duration
+right - sensitivity
 </pre>
 
 
