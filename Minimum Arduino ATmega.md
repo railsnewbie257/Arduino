@@ -16,6 +16,11 @@ Pin out:
 13-D7                      16-D10
 14-D8                      15-D9
 
+Materials:
+  1x 15MHz crystal
+  2x 20 picoFara capacitors
+  1x 100 nanoFara capacitor
+
 </pre>
 1. [Arduino on a Breadboard](https://www.youtube.com/watch?v=ufQZnAAxZ7A)
 
