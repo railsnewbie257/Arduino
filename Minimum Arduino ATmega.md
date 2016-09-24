@@ -1,20 +1,20 @@
 <pre>
 Pin out:
 
-RST                     A5
-RX                      A4
-TX                      A3
-D2                      A2
-D3                      A1
-D4                      A0
-V+  <- +5V              GND
-GND                     AREF
-XTL1                    +V
-XTL2                    D13
-D5                      D12
-D6                      D11
-D7                      D10
-D8                      D9
+ 1-RST                     28-A5
+ 2-RX                      27-A4
+ 3-TX                      26-A3
+ 4-D2                      25-A2
+ 5-D3                      24-A1
+ 6-D4                      23-A0
+ 7-V+   <- +5V             22-GND
+ 8-GND  <- GND             21-AREF
+ 9-XTL1 <- crystal         20-V+
+10-XTL2 <- crystal         19-D13
+11-D5                      18-D12
+12-D6                      17-D11
+13-D7                      16-D10
+14-D8                      15-D9
 
 </pre>
 1. [Arduino on a Breadboard](https://www.youtube.com/watch?v=ufQZnAAxZ7A)
@@ -24,7 +24,9 @@ D8                      D9
 3. [Arduino as ISP](https://www.youtube.com/watch?v=muP1dp73Mdg)
 
 
-[1-Day Project: Build Your Own Arduino Uno for $5 (YouTube)](https://www.youtube.com/watch?v=sNIMCdVOHOM)
+[1-Day Project: Build Your Own Arduino Uno for $5 (YouTube)](https://www.youtube.com/watch?v=sNIMCdVOHOM)  
+Uses external clock and USB to serial connection  
+Shows flashing LED
 
 [Arduino: Arduino on a Breadboard (YouTube)](https://www.youtube.com/watch?v=_m9aciePKEk)
 
