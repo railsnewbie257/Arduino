@@ -28,6 +28,10 @@ Materials:
 
 3. [Arduino as ISP](https://www.youtube.com/watch?v=muP1dp73Mdg)
 
+
+[Experiments 1.2: Introductory Power Supply Circuit II (Mains PSUs) (YouTube)](https://www.youtube.com/watch?v=FVMrA8C-GM0&index=2&list=PL5FF254536988FB37)
+
+
 [True Atmega Standalone, Running without crystal oscillator (Arduino) (Insrtuctables)](http://www.instructables.com/id/Atmega-Standalone-Running-without-crystal-oscillat/)
 
 [Reset fuses on atmega328p using Arduino (stackexchange)](http://arduino.stackexchange.com/questions/1672/reset-fuses-on-atmega328p-using-arduino?rq=1)
