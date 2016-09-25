@@ -28,6 +28,7 @@ Materials:
 
 3. [Arduino as ISP](https://www.youtube.com/watch?v=muP1dp73Mdg)
 
+[True Atmega Standalone, Running without crystal oscillator (Arduino) (Insrtuctables)](http://www.instructables.com/id/Atmega-Standalone-Running-without-crystal-oscillat/)
 
 [1-Day Project: Build Your Own Arduino Uno for $5 (YouTube)](https://www.youtube.com/watch?v=sNIMCdVOHOM)  
 Uses external clock and USB to serial connection  
