@@ -1,6 +1,6 @@
 <pre>
 Pin out:
-
+              notch
  1-RST                     28-A5
  2-RX                      27-A4
  3-TX                      26-A3
