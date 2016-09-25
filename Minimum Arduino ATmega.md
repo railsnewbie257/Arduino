@@ -30,6 +30,8 @@ Materials:
 
 [True Atmega Standalone, Running without crystal oscillator (Arduino) (Insrtuctables)](http://www.instructables.com/id/Atmega-Standalone-Running-without-crystal-oscillat/)
 
+[Reset fuses on atmega328p using Arduino (stackexchange)](http://arduino.stackexchange.com/questions/1672/reset-fuses-on-atmega328p-using-arduino?rq=1)
+
 [1-Day Project: Build Your Own Arduino Uno for $5 (YouTube)](https://www.youtube.com/watch?v=sNIMCdVOHOM)  
 Uses external clock and USB to serial connection  
 Shows flashing LED
