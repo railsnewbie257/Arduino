@@ -31,7 +31,8 @@ Materials:
 
 [Experiments 1.2: Introductory Power Supply Circuit II (Mains PSUs) (YouTube)](https://www.youtube.com/watch?v=FVMrA8C-GM0&index=2&list=PL5FF254536988FB37)
 
-[8MHz internal oscillator: success! (arduino forum)](http://forum.arduino.cc/index.php?topic=124879.0)
+[8MHz internal oscillator: success! (arduino forum)](http://forum.arduino.cc/index.php?topic=124879.0)  
+<b>NOTE</b>, if you're changing the bootloader on a chip that previously was configured to use an external clock, you'll need to have that external clock hooked up during the first bootloader burn.
 
 [True Atmega Standalone, Running without crystal oscillator (Arduino) (Insrtuctables)](http://www.instructables.com/id/Atmega-Standalone-Running-without-crystal-oscillat/)
 
