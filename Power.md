@@ -16,7 +16,7 @@ Arduino can take 9-12V DC input
 
 Materials:
     Barrel Jack Socket  
-    MC7805 Regulator  
+    LM7805 Regulator  
     on/off switch
     1N4001 rectifier diode - protects circuit from backflow
     resettable fuse / PTC  300mA
