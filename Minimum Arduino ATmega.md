@@ -46,3 +46,4 @@ Shows flashing LED
 
 [DIY Home made Arduino | Arduino Uno (YouTube)](https://www.youtube.com/watch?v=tlh0dBa2bFA)
 
+[How-To: Shrinkify Your Arduino Projects (YouTube)](https://www.youtube.com/watch?v=30rPt802n1k)
