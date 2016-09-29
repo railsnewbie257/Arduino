@@ -1,3 +1,6 @@
+[How PIR Sensor Works and How To Use It with Arduino (YouTube)](https://www.youtube.com/watch?v=6Fdrr_1guok)
+
+
 <pre>
 Pinout:
 
