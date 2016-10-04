@@ -24,5 +24,27 @@ Materials:
     10uF capacitor
 </pre>
 
+<pre>
+[Breadboard Power Supply Kit 5V/3.3V Quickstart Guide (Sparkfun)](https://www.sparkfun.com/tutorials/297)
+
+Materials:
+  DC Barrel Connector
+  Voltage Regulator (LM317 1.5A max current)
+  2pcs SPDT Slide Switch
+  4pcs 0.1" Header Pins
+  100uF 25V Capacitor
+  10uF 25V Capacitor
+  PTC resettable fuse
+  0.1uF 50V Capacitor
+  Resistors:
+    330 Ohm 1/6W - Orange, Orange, Brown X2
+    390 Ohm 1/6W - Orange, White, Brown X1
+    240 Ohm Resistor 1/6W - Red, Yellow, Brown X1
+  Red Super-bright LED
+  1N4004 Reverse Protection Diode
+  Bare PCB
+
+</pre>
+
 [Feeding power to Arduino: the ultimate guide](http://www.open-electronics.org/the-power-of-arduino-this-unknown/)
 
