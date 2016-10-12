@@ -25,7 +25,7 @@ Materials:
 </pre>
 
 <pre>
-[Breadboard Power Supply Kit 5V/3.3V Quickstart Guide (Sparkfun)](https://www.sparkfun.com/tutorials/297)
+<a href="https://www.sparkfun.com/tutorials/297">Breadboard Power Supply Kit 5V/3.3V Quickstart Guide (Sparkfun)</a>
 
 Materials:
     DC Barrel Connector
