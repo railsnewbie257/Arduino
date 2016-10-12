@@ -47,3 +47,4 @@ Materials:
 
 [Feeding power to Arduino: the ultimate guide](http://www.open-electronics.org/the-power-of-arduino-this-unknown/)
 
+[](https://www.youtube.com/watch?v=6PkJvgBFt9Q)
