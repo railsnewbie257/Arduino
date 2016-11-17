@@ -22,6 +22,21 @@ Materials:
     resettable fuse / PTC  300mA
     100uF capacitor  
     10uF capacitor
+    
+                                  _________
+                                 |         |
+                                 |  7805   |
+                                 |_________|
+                                   |  |  |
+    +9V >----Diode----PTC------+---+  |  +-----+-------+----> +5V
+                               |      |        |       |
+                             100uF    |       10uF    LED
+                               |      |        |       |
+    GND -----------------------+------+--------+-------+----- GND
+         
+                       capacitor longer leg is +ve
+                       stripe is -ve
+                     
 </pre>
 
 <pre>
