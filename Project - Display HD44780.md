@@ -4,27 +4,27 @@
 
 ####Pin-Out
 <pre>
-Pin # Function
-1 VSS (Gnd)
-2 VDD (+5V)
-3 Contrast Adjustment - Connect the center tap of a 10k pot connected between Gnd and 5V
-       pot pin out, with center pin furthest away:
-       - GND
-       --- Out
-       - V+
-4 RS Register Select Input
-5 R/W Read/Write Signal, normally at Gnd
-6 E Enable
-7 DB0
-8 DB1
-9 DB2
-10 DB3
-11 DB4
-12 DB5
-13 DB6
-14 DB7
-15 LED (+) (+5V through a current limiting resistor - I used 220ohm)
-16 LED (-) Gnd
+Pin -> Arduino Function
+1   -> VSS (Gnd)
+2   -> VDD (+5V)
+3   -> Contrast Adjustment - Connect the center tap of a 10k pot connected between Gnd and 5V
+           pot pin out, with center pin furthest away:
+           - GND
+           --- Out -> 3
+           - V+
+4  ->  12  RS Register Select Input
+5  ->  GND R/W Read/Write Signal, normally at GND
+6  ->  11  E Enable
+7  ->  N/A
+8  ->  N/A
+9  ->  N/A
+10 ->  N/A
+11 ->  5  DB4
+12 ->  4  DB5
+13 ->  3  DB6
+14 ->  2  DB7
+15 -> R220 ->  VCC(+) (+5V through a current limiting resistor - I used 220ohm)
+16 -> GND (-) Gnd
 
 The Arduino connections are as follows for 4 bit parallel:
 LCD Pin: Arduino Pin:
